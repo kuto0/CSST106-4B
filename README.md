@@ -1,3 +1,5 @@
-# CSST106-4B
+# CSST-106
 # MANALO, ARCHIE
-# MACHINE PROBLEM 1
+# BSCS 4B
+
+# Machine Problem and Exercises
